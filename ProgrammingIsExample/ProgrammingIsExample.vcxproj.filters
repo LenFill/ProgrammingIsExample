@@ -13,13 +13,25 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Исходные файлы\Lab1">
+    <Filter Include="Исходные файлы\LR1">
       <UniqueIdentifier>{c4dcbe03-ff13-487c-b0fc-6d1f339e5cb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR2">
+      <UniqueIdentifier>{01ae2e06-f2d3-428b-99e0-22af3d12ed9f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="example3.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="LR1\example1_3.cpp">
+      <Filter>Исходные файлы\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1\example1_1.cpp">
+      <Filter>Исходные файлы\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="LR1\example1_2.cpp">
+      <Filter>Исходные файлы\LR1</Filter>
+    </ClCompile>
+    <ClCompile Include="example2_1.cpp">
+      <Filter>Исходные файлы\LR2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

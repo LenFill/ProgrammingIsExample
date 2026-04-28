@@ -1,6 +1,6 @@
 //Выполнить программу, иллюстрирующую разные операции с указателями.
 //Повторить эксперемент для разныз типов данных 
-
+/*
 #define PR(x) printf("x=%u, *x=%lf, &x=%u\n",x,*x,&x)
 #include <stdio.h>
 #include <iostream>
@@ -18,3 +18,4 @@ void main(void)
 	++ptr2;
 	printf("ptr2-ptr1 = %u\n", ptr2 - ptr1);
 }
+*/

@@ -2,6 +2,7 @@
 //¬ качестве параметра использовать int, int* и int&.
 // 
 //
+/*
 #include <iostream>
 using namespace std;
 int main()
@@ -35,4 +36,4 @@ void obmen3(int& x, int& y) {
 	int temp = x;
 	x = y;
 	y = temp;
-}
+}*/

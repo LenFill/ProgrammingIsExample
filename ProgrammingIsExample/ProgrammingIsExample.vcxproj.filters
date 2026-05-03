@@ -22,6 +22,9 @@
     <Filter Include="Исходные файлы\LR3">
       <UniqueIdentifier>{89673ce3-15b8-458a-9784-533ace495e1a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\LR4">
+      <UniqueIdentifier>{3d42e34a-92cc-4f20-9b02-becb03ca53b9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LR1\example1_3.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="example3_1.cpp">
       <Filter>Исходные файлы\LR3</Filter>
+    </ClCompile>
+    <ClCompile Include="example4_1.cpp">
+      <Filter>Исходные файлы\LR4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

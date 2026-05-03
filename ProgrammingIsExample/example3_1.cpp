@@ -32,7 +32,7 @@ void sortBubble(int arr[], int n)
                 int tmp = arr[j]; arr[j] = arr[j + 1]; arr[j + 1] = tmp;
             }
 }
-// ЗАДАНИЕ 2б: Быстрая сортировка (метод Хоара)
+// ЗАДАНИЕ 2б: Быстрая сортировка 
 void sortQuick(int arr[], int left, int right)
 {
     if (left >= right) return;

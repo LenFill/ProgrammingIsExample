@@ -1,3 +1,5 @@
+// Лабораторная работа 2
+/*
 #include <iostream>
 #include <iomanip>   
 #include <cstdlib>  
@@ -238,3 +240,4 @@ int main() {
     system("pause>nul");
     return 0;
 }
+*/

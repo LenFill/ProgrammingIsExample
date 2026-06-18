@@ -25,6 +25,27 @@
     <Filter Include="Исходные файлы\LR4">
       <UniqueIdentifier>{3d42e34a-92cc-4f20-9b02-becb03ca53b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Исходные файлы\LR5">
+      <UniqueIdentifier>{f4f3087e-143a-4e60-ad1a-5cc1bcb182de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR6">
+      <UniqueIdentifier>{a2e4ad97-e682-4383-b589-80e791a47ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR7">
+      <UniqueIdentifier>{f78d4c8b-7f78-4076-a465-e8bc3f043019}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR8">
+      <UniqueIdentifier>{ed5c511b-6e32-45e0-bcd6-3d21676971d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR9">
+      <UniqueIdentifier>{812f31cd-a34b-40ed-8a17-a1de6d095f5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\LR10">
+      <UniqueIdentifier>{6ac779ad-4cab-4f02-8959-ed9840317781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\LR6">
+      <UniqueIdentifier>{50ed296f-6e99-462c-b6bb-d6978d25efe8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LR1\example1_3.cpp">
@@ -45,5 +66,31 @@
     <ClCompile Include="example4_1.cpp">
       <Filter>Исходные файлы\LR4</Filter>
     </ClCompile>
+    <ClCompile Include="LR5\example5_1.cpp">
+      <Filter>Исходные файлы\LR5</Filter>
+    </ClCompile>
+    <ClCompile Include="LR6\example6_1.cpp">
+      <Filter>Исходные файлы\LR6</Filter>
+    </ClCompile>
+    <ClCompile Include="LR6\Stroka.cpp">
+      <Filter>Исходные файлы\LR6</Filter>
+    </ClCompile>
+    <ClCompile Include="LR7\example7_1.cpp">
+      <Filter>Исходные файлы\LR7</Filter>
+    </ClCompile>
+    <ClCompile Include="LR8\example8_1.cpp">
+      <Filter>Исходные файлы\LR8</Filter>
+    </ClCompile>
+    <ClCompile Include="LR9\example9_1.cpp">
+      <Filter>Исходные файлы\LR9</Filter>
+    </ClCompile>
+    <ClCompile Include="LR10\example10_1.cpp">
+      <Filter>Исходные файлы\LR10</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LR6\Stroka.h">
+      <Filter>Файлы заголовков\LR6</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
